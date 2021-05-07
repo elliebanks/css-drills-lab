@@ -1,0 +1,77 @@
+body {
+    font-family: monospace;
+    background-color: lightgray;
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+.box {
+    display: block;
+    margin: 6px;
+    padding: 5px 5px 10px 10px;
+    border: 5px solid white;
+    border-radius: 50px;
+    width: 30em;
+}
+a:hover {
+    cursor: pointer;
+    color:peachpuff;
+    font-weight: bold;
+}
+span { font-weight: bold;
+    color:palegreen;
+}
+#box1 {
+    background-color: deepskyblue;
+}
+#box2 {
+    background-color: darksalmon;
+}
+#boxN {
+    background-color: hotpink;
+}
+.image {
+    position: relative;
+    top: 50px;
+    left: 55px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(218, 178, 236)
+}
+h1 { 
+    color: darkslateblue
+}
+.original {
+    color: deeppink;
+}
+.additional {
+    color: lightpink;
+}
+#show1 {
+    color:lightyellow;
+}
+#show2 {
+    color:mediumslateblue;
+}
+#show3 {
+    color:olive;
+}
+#show4 {
+    color:peru;
+}
+#show5 {
+    color:teal;
+}
+ul {
+    color:orchid;
+}
+.star {
+    color:rgb(171, 112, 16);
+}
+#wars {
+    color:rgb(71, 5, 68);
+}
+.border {
+   border: 2px solid black;
+}
