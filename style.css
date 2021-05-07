@@ -5,6 +5,9 @@ body {
 h2, p, .readme-wrapper {
     text-align: center;
 }
+a {
+    text-decoration: none;
+}
 .box {
     display: block;
     margin: 6px;
